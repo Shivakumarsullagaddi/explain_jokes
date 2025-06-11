@@ -6,7 +6,7 @@ Making web app for chatting with Ai
 
 
 #2.Use to set up cloud code editor and choose the repo and click
-{github.com/codespaces}
+{ github.com/codespaces }
 
 
 ![Screenshot 2025-06-11 004416](https://github.com/user-attachments/assets/53e90f1f-406b-4343-a0e4-0f2d3a2fd2a6)
@@ -14,7 +14,7 @@ Making web app for chatting with Ai
 
 
 #3.Use gitHub model to compare Large Language Model
-click {github.com/marketplace}
+click { github.com/marketplace }
 
 
 ![Screenshot 2025-06-11 003530](https://github.com/user-attachments/assets/e7e19154-f94c-4801-a398-b2c57bc70a38)
